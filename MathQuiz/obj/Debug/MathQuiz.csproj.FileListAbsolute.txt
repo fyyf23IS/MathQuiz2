@@ -1,0 +1,55 @@
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Desktop\Макарова 23ИС\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Downloads\mdk01023-main (1)\mdk01023-main\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuizz-main (2)\MathQuizz-main\MathQuizz-main (1)\MathQuizz-main\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Downloads\MathQuiz1-main\MathQuiz\obj\Debug\MathQuiz.pdb
